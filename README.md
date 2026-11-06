@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Mohamed Fowzan 👋
 
-<!--
-**fowzanmohamed/fowzanmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Power BI and Microsoft Fabric developer · **Fabric Community Super User** · I host monthly Fabric talks on what's new in the platform.
 
-Here are some ideas to get you started:
+I build tools that make Power BI teams faster and their models healthier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Featured
+
+**[Semantic Model Health](https://github.com/fowzanmohamed/semantic-model-health)**: score every Power BI semantic model from 0 to 100, see what's hurting it, and get the fix. One Fabric notebook, no edits, and it builds its own report.
+
+#### 🧰 What I work with
+
+`Power BI` · `DAX` · `Power Query` · `Microsoft Fabric` · `Lakehouse` · `Semantic Link` · `Python` · `Oracle Cloud (OCI/OIC)`
+
+#### 📫 Find me
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-fowzan-16b3ab162/)
