@@ -19,4 +19,4 @@ I lead enterprise BI and analytics work across semantic modeling, governance and
 
 #### 📫 Find me
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-fowzan-16b3ab162/)
+[LinkedIn](https://www.linkedin.com/in/mohamedfowzan/)
