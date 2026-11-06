@@ -10,7 +10,7 @@ I build tools that make Power BI teams faster and their models healthier.
 
 #### 🧰 What I work with
 
-`Power BI` · `DAX` · `Power Query` · `Microsoft Fabric` · `Lakehouse` · `Semantic Link` · `Python` · `Oracle Cloud (OCI/OIC)`
+`Power BI` · `DAX` · `Power Query` · `Microsoft Fabric` · `Lakehouse` · `Semantic Link` · `Python` · `SAP HANA`
 
 #### 📫 Find me
 
